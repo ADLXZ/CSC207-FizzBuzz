@@ -3,6 +3,8 @@ Let's start off our exploration of Java with a classic programming challenge, Fi
 
 But first, let's get you your own copy of this codebase to work with.
 
+喵喵
+
 ## Task 0 Forking a public repository on GitHub
 
 You should currently be reading this README on GitHub in the code repository:
@@ -335,13 +337,13 @@ ways to help you resolve conflicts without too much difficulty.
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
 
-- [ ] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
+- [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
 
 This change has now been made on GitHub, but your local copy doesn't know about the change yet.
 
-- [ ] In IntelliJ, you can either click the `Git` menu and choose `Pull...`,
+- [X] In IntelliJ, you can either click the `Git` menu and choose `Pull...`,
 or you can run `git pull` from the Terminal tab. Once you have done the pull, you should see the commit show up in
 your local repository.
 
